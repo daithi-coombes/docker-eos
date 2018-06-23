@@ -1,3 +1,2 @@
 eosio-wallet/*
-!eosio-wallet/.gitkeep
 keys.local
