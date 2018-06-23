@@ -63,10 +63,8 @@ is the public key of the `eosio` genesis account.
 
 
 
-####
-# The genesis account: eosio
-# @see https://github.com/EOSIO/eos/issues/4154#issuecomment-397820824
-#
-# - eosio public key: EOS6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV
-# - eosio private key: 5KQwrPbwdL6PhXujxW37FSSQZ1JiwsST4cqQzDeyXtP79zkvFD3
-###
+#### The genesis account: eosio
+@see https://github.com/EOSIO/eos/issues/4154#issuecomment-397820824
+
+ - eosio public key: EOS6MRyAjQq8ud7hVNYcfnVPJqcVpscN5So8BhtHuGYqET5GDW5CV
+ - eosio private key: 5KQwrPbwdL6PhXujxW37FSSQZ1JiwsST4cqQzDeyXtP79zkvFD3
