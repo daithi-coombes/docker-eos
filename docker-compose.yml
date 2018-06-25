@@ -6,8 +6,11 @@ services:
     # image: eosio/eos-dev
     image: eosio/eos
     container_name: eosio
+    working_dir: /opt/work
     volumes:
+      - ./bin:/root/bin
       - ./eosio-wallet:/root/eosio-wallet
+      - ./work:/opt/work
     ports:
       - "8888:8888"
       - "9876:9876"
